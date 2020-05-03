@@ -1,2 +1,2 @@
 # snake-pygame
-jogo do snake feito em java com a biblioteca pygame
+jogo do snake feito em pythoncom a biblioteca pygame
